@@ -2,7 +2,7 @@
 - 👀 I’m interested in NLP, Deeplearning, Machine learning,  Neural networks Explainibality Methods.
 - 🌱 I’m currently learning Java
 <!--- 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me fatimahabibaa95@gmail.com
+- 📫 How to reach me habib.fatima.eng@gmail.com
 
 <!---
 FatimaHabib/FatimaHabib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
