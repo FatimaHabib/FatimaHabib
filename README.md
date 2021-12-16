@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FatimaHabib a NLP engineer graduted from  IDMC in Nancy,France. 
-- 👀 I’m interested in NLP, Data science,Deeplearning, Machine learning,  Neural networks Explainibality Methods.
+- 👋 Hi, I’m @FatimaHabib an NLP engineer who graduated from  IDMC , Lorraine university in Nancy, France. 
+- 👀 I’m interested in NLP, Data Science, Deep Learning, Machine learning,  Neural networks Explainibality Methods.
 - 🌱 I'm currently looking for a job opportunity as a data scientist.
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me habib.fatima.eng@gmail.com
